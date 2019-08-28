@@ -1,0 +1,1 @@
+This is the Guessing Game. A predetermined number is guessed by the user.
